@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+}
+.MainParagraph{
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+}
+.Secondparagraph{
+    background-color: #ff5733;
+    color: #fff;
+    padding: 10px;
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+}
+.link a{
+    color: #000;
+    text-decoration: none;
+    background-color: #fff;
+    padding: 2px;</div>
+    margin: 10px;
+}
+.link a:hover{
+    background-color:#2600ff;
+    color: #fff;
+    transition: 1s;
+}
+h3{
+    font-family: 'Galada', cursive
+}
